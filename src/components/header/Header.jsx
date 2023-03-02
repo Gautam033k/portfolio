@@ -2,7 +2,7 @@ import React from 'react';
 import './header.css';
 import 'boxicons';
 // import CTA from './CTA';
-import CV from '../../assets/Resume_done.pdf';
+import CV from '../../assets/GOWTHAMK_RESUME_MERN.pdf';
 import ME from '../../assets/me-coverdone-half.png';
 // import Headersocials from './Headersocials';
 import { Typewriter } from 'react-simple-typewriter';
@@ -21,7 +21,6 @@ const Header = () => {
               words={[
                 'FullStack Developer.',
                 'Blogger.',
-                'UI/UX Designer.',
                 'FullStack Developer.',
                 'Blogger.',
               ]}

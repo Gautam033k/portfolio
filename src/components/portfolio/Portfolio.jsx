@@ -21,13 +21,6 @@ const data = [
     github: 'https://github.com/Gautam033k/Gym-website',
     demo: 'https://bodyplusgym.vercel.app/',
   },
-  {
-    id: 1,
-    image: IMG2,
-    title: 'This is a portofolio demo',
-    github: 'https://github.com',
-    demo: 'https://github.com',
-  },
 ];
 
 const Portfolio = () => {
