@@ -25,7 +25,7 @@ const data = [
     id: 1,
     image: TODOLIST,
     title:
-      'This is a todolist app made with MERN ,Buikd for learning the fundamentals of API and Database connections,Mde a simple UI and improved backend functionalities .',
+      'This is a todolist app made with MERN ,Build for learning the fundamentals of API and Database connections,Made a simple UI and improved backend functionalities .',
     github: 'https://github.com/Gautam033k/todolist',
     demo: 'https://todolist-tre3.onrender.com/',
   },
