@@ -20,8 +20,10 @@ const Header = () => {
             <Typewriter
               words={[
                 'FullStack Developer.',
+                'React.js Developer',
                 'Blogger.',
                 'FullStack Developer.',
+                'React.js Developer',
                 'Blogger.',
               ]}
               loop={5}

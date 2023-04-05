@@ -1,8 +1,8 @@
 import React from 'react';
 import './portfolio.css';
 import IMG1 from '../../assets/headphone.jpg';
-import IMG2 from '../../assets/portfolio2.jpg';
 import GYMDUMBELL from '../../assets/gymdumbell.jpg';
+import TODOLIST from '../../assets/todolist.jpg';
 
 const data = [
   {
@@ -20,6 +20,14 @@ const data = [
       'This is a Gym website made using React.js ,This website was made for my local Gym.,This was build Inorder to learn about css responsive design and animations ,also included some javascript.',
     github: 'https://github.com/Gautam033k/Gym-website',
     demo: 'https://bodyplusgym.vercel.app/',
+  },
+  {
+    id: 1,
+    image: TODOLIST,
+    title:
+      'This is a todolist app made with MERN ,Buikd for learning the fundamentals of API and Database connections,Mde a simple UI and improved backend functionalities .',
+    github: 'https://github.com/Gautam033k/todolist',
+    demo: 'https://todolist-tre3.onrender.com/',
   },
 ];
 
